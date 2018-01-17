@@ -1,0 +1,19 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "A simple web server in node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Thuzor@github.com/Thuzor/node-simple-web-server.git"
+  },
+  "author": "Adam Thewlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thuzor/node-simple-web-server/issues"
+  },
+  "homepage": "https://github.com/Thuzor/node-simple-web-server#readme"
+}
